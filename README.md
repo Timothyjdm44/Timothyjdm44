@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, my name is Timothy and I am an IT professional. It's a pleasure to meet you.👋
 
 <!--
 **Timothyjdm44/Timothyjdm44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
